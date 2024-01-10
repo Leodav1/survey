@@ -1,0 +1,18 @@
+.clase-cuerpo {
+ background-color: violet;
+ text-align: center;
+}
+
+#submit {
+ background-color: green;
+}
+
+.formulario {
+ background: rebeccapurple;
+}
+
+.name {
+ font: bold;
+ color: white;
+ font-size: medium;
+}
